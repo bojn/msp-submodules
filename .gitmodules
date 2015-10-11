@@ -1,0 +1,4 @@
+[submodule "msp-lib"]
+	path = msp-lib
+	url = https://github.com/bojn/msp-lib.git
+	branch = 2.0
